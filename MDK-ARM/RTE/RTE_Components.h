@@ -4,7 +4,7 @@
  *      *** Do not modify ! ***
  *
  * Project: 'Project' 
- * Target:  'STM32F427_437xx' 
+ * Target:  'STM32F40_41xxx' 
  */
 
 #ifndef RTE_COMPONENTS_H
